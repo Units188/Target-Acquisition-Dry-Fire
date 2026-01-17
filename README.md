@@ -1,7 +1,7 @@
 # Target Acquisition Dry Fire
 
 Voice-guided dry-fire training tool for practicing multiple target transitions.
-Announces randomized target sequences with customizable target names.
+Announces randomized target sequences with customizable names.
 
 ## Features
 
