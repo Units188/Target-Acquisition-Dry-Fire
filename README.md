@@ -52,11 +52,11 @@ You can adjust these parameters in the code:
 📊 Nombre de cibles : 5
 
 📝 Nommez vos 5 cibles :
-  Cible 1 : Target Alpha
-  Cible 2 : Target Bravo
-  Cible 3 : Target Charlie
-  Cible 4 : Target Delta
-  Cible 5 : Target Echo
+  Cible 1 : Lampe de chevet
+  Cible 2 : Cible Alpha
+  Cible 3 : Intérrupteur
+  Cible 4 : Cible Tango
+  Cible 5 : Cible Echo
 ```
 
 ## Changing Voice Language
