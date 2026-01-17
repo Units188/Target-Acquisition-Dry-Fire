@@ -19,7 +19,7 @@ Voice-guided dry-fire training tool for practicing multiple target transitions. 
 
 ## Installation
 ```bash
-git clone https://github.com/YOUR_USERNAME/Target-Acquisition-Dry-Fire.git
+git clone https://github.com/Units188/Target-Acquisition-Dry-Fire.git
 cd Target-Acquisition-Dry-Fire
 python3 entrainement_tir.py
 ```
